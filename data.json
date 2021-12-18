@@ -1,0 +1,26 @@
+
+{
+    "cards":[{
+        "img":"vivo.jfif",
+        "name":"vivo",
+        "price":"15000",
+        "offer":"1000",
+        "button":"view"
+    },{
+
+        "img":"shin.jpg",
+        "name":"shin",
+        "price":"250",
+        "offer":"50",
+        "button":"view"
+    },{
+
+        "img":"iphone12.jpg",
+        "name":"iphone12.jpg",
+        "price":"180000",
+        "offer":"10000",
+        "button":"view"
+    }
+    
+    ]
+}
